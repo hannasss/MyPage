@@ -50,7 +50,19 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".MypageActivity"
+            android:exported="false" />
 
+        <activity
+            android:name=".EditProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WrittenPostActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WrittenedCommentActivity"
+            android:exported="false" />
     </application>
 
 </manifest>
