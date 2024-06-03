@@ -61,8 +61,12 @@
             android:name=".WrittenPostActivity"
             android:exported="false" />
         <activity
-            android:name=".WrittenedCommentActivity"
-            android:exported="false" />
+            android:name=".CalendarActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".DateDetailActivity"
+            android:exported="false"/>
+
     </application>
 
 </manifest>

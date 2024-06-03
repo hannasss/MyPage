@@ -5,4 +5,13 @@
     <color name="pink">#FFC0CB</color>
     <color name="gray">#808080</color>
     <color name="light_gray">#D3D3D3</color>
+
+        <color name="background_color">#FFFFFF</color>
+        <color name="title_color">#333333</color>
+        <color name="date_text_color">#000000</color>
+        <color name="weekday_text_color">#757575</color>
+        <color name="colorPrimary">#3F51B5</color>
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorAccent">#FF4081</color>
+
 </resources>
